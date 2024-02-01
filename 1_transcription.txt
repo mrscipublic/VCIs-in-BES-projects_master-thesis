@@ -1,0 +1,238 @@
+Transcription for Interview 1
+
+1) Interviewer; 2) Interviewee
+
+1) Sie können aber, wenn Sie jetzt noch irgendwelche allgemeinen Fragen haben, die gerne an mich richten. Ich würde sonst mit einer tiefer gehenden, kurzen Vorstellung von meiner Masterarbeit während der Aufnahme starten. Dann haben Sie da den kompletten Überblick auch nochmal. 
+
+2) Geht los. 
+
+1) Gut, wunderbar. Dann starten wir das einmal schnell. Bezüglich der Datenschutzeinverständniserklärung, das passt wunderbar, wenn Sie die nachreichen. Dann haben wir das einmal. Besten Dank. So, [Interviewee], Aufzeichnung läuft. Auch nochmal vielen Dank, dass das so spontan jetzt passieren konnte und Sie Zeit hatten. Wunderbar. Was schaue ich mir in meiner Masterarbeit genau an? Es geht um sogenannte Corporate Use Cases, wie ich das nenne. Also ich schaue mir an, warum Unternehmen auf freiwilliger Basis Biodiversität und Ökosystem-Dienstleistungsprojekte unterstützen. Und mich interessiert dabei weniger die Motivation, sondern vielmehr, was machen Unternehmen letztendlich mit solchen Investitionen in Biodiversitätsprojekte. Und ich selbst habe eben aus der Literatur heraus ein paar Annahmen getroffen, um die es da geht. Im konkreten Fall heute unterhalten wir uns über das Biodiversitätsengagement der [Firma] und insbesondere das [Projekt], - welches mich mir auch genauer angeguckt hatte. Und letztendlich interessiert mich, warum macht die [Firma] das und welchen Nutzen zieht sie daraus? Und bevor wir da ein bisschen tiefer einsteigen und ich auch ein paar Fragen mitgebracht habe, würde ich am Anfang aber gerne Ihnen einfach die Möglichkeit geben, sich vielleicht kurz vorzustellen, zu sagen, wie kamen Sie zu dem Thema, wie kamen Sie in die Verantwortung, das Projekt zu leiten? Und Sie können gerne auch ein paar Worte zu [Firma] und Biodiversität, also zu der Schnittmenge, verlieren. 
+
+2) Gut. Mein Name ist [Interviewee], war 20 Jahre bei [Bank] im Management, dann zwölf Jahre Geschäftsführer eines Nahrungsmittelherstellers und bin vor mehr als einem Jahr von [Eigentümer Firma] angesprochen worden, und zwar um gemeinsam eine Nachhaltigkeitsfirma zu gründen, wo eines der Hauptprojekte [Projekt] ist. Bin seit Jänner in dieser Verantwortung. Die [Firma]elbst ist einer der großen [Produkt]-Händler in Österreich mit einem Umsatz von 550 Millionen Euro, agiert auf mehreren Ebenen, hat selbst Glashäuser, die sie mit Geothermie betreibt, wo in Summe 28.000 Tonnen CO2 pro Jahr eingespart werden, betreibt aber auch Vertragslandwirtschaft von [Produkt #1] bis [Produkt #2] in [Ausland]. Wir sind also auf der ganzen Welt im Sourcing unterwegs, haben dann selbst ein Handelsgeschäft und haben zusätzlich für unsere Kunden ein riesiges Dienstleistungspaket. Also wir sind ganz stark im SAP-System integriert, also mit hochgradig integrierte Technologie. Das ist einmal die [Firma] beschrieben. Gegründet wurde das Unternehmen vor 25 Jahren von drei [Unternehmern] und diese drei [Unternehmer] sind immer im Unternehmen in führender Position. Einer davon ist der [Eigentümer Firma], der steht seit drei Jahren hinter diesem Projekt. Soll ich gleich einsteigen, warum wir das machen und wo wir den Nutzen sehen oder gehen Sie strukturiert durch? 
+
+1) Fangen Sie gerne an, das ist wunderbar. 
+
+2) Die Hauptmotivation war, der [Eigentümer] hat eine bewegte Karriere hinter sich als Landwirt über alles mögliche gemacht. Er war dann im Logistikbereich in Russland, in Bosnien, Serbien und überall unterwegs und hat relativ früh erkannt, welche guten Voraussetzungen wir in Österreich haben und in welcher schönen Welt wir leben. Er beschreibt das immer so und hat immer das Animus gehabt, das auch zu erhalten. Er nennt das den Lebensraum zu erhalten und in diesem Lebensraum Lebensmittel zu erzeugen. Er hat immer das Thema, unsere Vis-a-Vis sind ja Discounter, Lebensmittel-Einzelhandel, also sehr kosten- und preisgetriebene Einkaufsverhandlungen und er hat immer den Zugang, wenn Lebensmittel nichts mehr wert sind, dann haben wir alle ein Problem. Daher ganz bewusst, wir setzen auf Regionalität, wir setzen auf Bio-Lebensmittel und der dritte Ast ist jetzt auf Artenschutz, weil er sagt, neben CO2 ist das Thema Artensterben das große Thema der Menschheit auch. Und er glaubt, dass wenn wir langfristig eine wettbewerbsfähige Landwirtschaft wollen, müssen wir uns sowieso an diesen Dingen stellen. Auf der anderen Seite sehen wir natürlich auf der einen Seite, dass ein Großteil des Marktes ausschließlich preisgetrieben ist, ausschließlich preisgetrieben von den Mengen her. Wir sehen aber auf der anderen Seite auch den Markt, der entsteht, wo Konsumenten bereit sind für Regionalität, für Bio und wir hoffen in Zukunft auch für den Schutz des eigenen Lebensraums bereit sind, mehr zu zahlen. Er kommt aus der Landwirtschaft und er sieht, was in den nächsten 10, 20, 30 Jahren ein Abgehen in der Landwirtschaft sein wird, wo es keine Betriebsnachfolge mehr gibt und wo eigentlich die Grundlagen gegeben sind, dass ein junger Mensch sagt, er betreibt noch Landwirtschaft. Und wir glauben, dass wenn wir ein ordentliches Modell machen und dieses [Projekt], das wir übrigens nächstes Jahr neu launchen, international, und auch die Marke erweitern, dass das auch eine Chance ist, den Landwirten zusätzliche Wertschöpfung zu bieten. 
+
+1) Okay, verstehe. Kann man das unter dem Begriff Lieferkettenresilienz gut zusammenfassen? 
+
+2) Gut, vielleicht ein Megathema, das wir sowieso haben, das ist eines der großen strategischen Projekte, die bei uns im Haus ist, wo werden oder wie werden Sie in den nächsten 10 Jahren die Anbaugebiete verschieben? Wo kriegt man überhaupt noch [Produkt #2] her, wo kriegt man [Produkt #1] her? Ganz einfaches Beispiel, es wird keine [Produkt #3] mehr in der [Region Österreich] geben. Das heißt, den Bereich [Ort], da haben Sie in den letzten - Sie sind [aus der Region] glaube ich, Sie kennen das Gebiet wahrscheinlich, das war an und für sich immer Liefergebiet für diese Frucht und da haben Sie in den letzten 10 Jahren 7-mal Frostausfall gehabt. Das heißt, da gibt es Bauern, die dann in Sprenkelanlagen investiert haben, das vollkommen sinnlos. Durch den Klimawandel verlängern Sie die Vegetationsperioden und der Frosteinbruch, also es blüht dann früher, der Frosteinbruch kommt fast jedes Jahr schon. Daher sind das Früchte zum Beispiel, die man in bestimmten Regionen nicht mehr anbauen kann und das haben wir in vielen Teilen dieser Welt. Das heißt, egal ob man jetzt auf den Ätna schaut, ob man nach Marokko schaut, ob man nach Israel schaut, unabhängig von den jetzigen Verwerfungen. Wenn wir nach Südamerika schauen, nach Brasilien, die Lieferfähigkeit oder Lieferverlässlichkeit von Anbaugebieten ist aufgrund von Wetterphänomenen nicht mehr so gewährleistet, wie noch vor 10 Jahren. Das heißt, man sieht ja schon, dass das Ganze nicht mehr im Gleichgewicht ist. Eines der großen Projekte bei uns im Haus ist, dass wir sagen, wo kann man in 10 Jahren zum Beispiel [Produkt #4] machen, wo kann man in 10 Jahren [Produkt #1] machen, wo kann man in 10 Jahren diese Dinge machen und da genau greift immer eines dann ins andere. Aber es ist natürlich ein Riesenthema, überhaupt Lebensmittelsicherheit herzustellen. 
+
+1) Letztendlich, wenn man als [Firma] in so ein Biodiversitäts-, Artenvielfalt-, Ökosystemprojekt investiert, profitieren ja alle davon. Auch die, die sich finanziell oder ideell nicht am Projekt beteiligen. Ist das im Hinterkopf, wenn das Projekt durchgeführt wird? 
+
+2) Was meinen Sie mit alle profitieren davon? Die Bevölkerung profitiert davon? Welche Stakeholder meinen Sie da? 
+
+1) Also, letztendlich haben Sie ein tolles Projekt auf die Beine gestellt, bei dem die natürliche Bestäubungsleistung ja garantiert werden soll in der Landwirtschaft. Durch das [Projekt]. 
+
+2) Ja, ja, ja. Und vielleicht kann ich unser Projekt nochmal schärfen - ich weiß nicht, ob Bee-Washing für Sie ein Begriff ist. 
+
+1) Ja, absolut. 
+
+2) Seit 2015 in Amerika sind die ersten wissenschaftlichen Arbeiten dazugekommen. Damit Sie ein Gefühl bekommen, wir haben ca. 400 Hektar jetzt an solchen Bienenweiden geschaffen. Und wir sagen, damit dieser Kreislauf funktionieren kann, muss dieses Saatgut, das wir da verwenden, spezifisch für unseren Raum sein, also genetisch passend. Das war eine meiner ersten Arbeiten, ich habe eine Biologin eingestellt. Und wir haben uns nicht nur mit dem [Saatguthersteller], der da in Österreich prädestiniert ist für Wildpflanzen Saatgut. Wir haben uns mit [Institut], mit dem [Forscher] zusammen getan. Die [Institut #1] ist vom Ministerium beauftragt, die österreichischen Wildpflanzen, sozusagen die Datenbank, die Gendatenbank zu sein. Das heißt, die haben diese Wildpflanzen, die in Österreich bedroht sind, eingefroren. Frieren sie jetzt gerade bei der [Institut #2] ein und werden sie da in Island in dieser Gendatenbank einfrieren. Und wir haben uns einmal angeschaut, wo haben wir die größten Probleme. Angefangen von welchen Insekten, von welchen Vögeln, von welchen Amphibien, von welchen Rebhunden, Niederwild etc. Und dann haben wir mit [Forscher], [Saatguthersteller], unserer Biologin, das ist die [Biologin], die ist im Wildbienenrat, ausgearbeitet, welches Nahrungsangebot über den Blühzeitraum, so jetzt einmal April bis Oktober, und was brauchen wir eigentlich für einen sinnvollen Kreislauf. Und wenn es in Biodiversitäts-Todesgebiet geht, ich nenne das immer so als Donautal zum Beispiel, wo wir die Intensiv-Landwirtschaft haben, dann haben wir uns einmal angeschaut, was sollte in dieser Mischung sein. Da ist dann gleich eine ganz teure Mischung rausgekommen. Da haben sich teilweise Sorten drinnen, die kosten 800 Euro pro Kilo. Wir haben uns jetzt aber auf eine Mischung verständigt für 2024, wo wir keine Gräser mehr drinnen haben, wo wir jetzt 50 Wildpflanzen drinnen haben, wo wir uns ausschließlich auf das Pollen- und Nektarangebot ausgerichtet haben über den Saisonverlauf her. Unter 1000 Meter vom Bodensee bis Neusiedlersee. Das heißt, es ist eine einheitliche Mischung. Und mit der legen wir jetzt einmal die Basis, damit wir aufbauend auf das, was wir schon alles gemacht haben, mit schönen Erfolgen, in Oberösterreich zum Beispiel haben wir 5,6 Hektar in Summe, und da haben wir auf einmal wieder Rebhühner. Da ist Treibjagd nicht mehr gegeben, jahrelang, das wissen wir jetzt, da haben wir mit den Adeligen zusammengearbeitet, das sind alle Jäger, und die haben gesagt, vor drei, vier Jahren haben sie überhaupt keine Rebhühner mehr gehabt, und jetzt merkt man einfach, dass sich dieser Bestand wieder erholt hat und dass es das wieder gibt. Und wir setzen uns sozusagen im Biodiversitätsansatz jetzt ganz klar in Zukunft viel stärker auf das, was wir sowieso immer getan haben, auf Artenschutz. Wir werden die Bienen jetzt nicht gegen die Bienen argumentieren, gegen die Honigbiene, nur die Honigbiene ist ein Zuchttier, so wie ein Schwein oder ein Wind, und macht ca. 50% weltweite Bestäubungsleistung, es ist wirtschaftlich total wichtig, aber sie verdrängt natürlich auch Wildbienen oder auch andere Insekten im Kampf um das Nahrungsangebot. Und wir fokussieren jetzt ab nächstem Jahr, wo wir dann stärker wieder auf das Thema gehen, viel stärker jetzt nicht mehr 
+auf Imkerei und auf diese Dinge, sondern viel stärker auf den Biodiversitätsschutz und Artenschutz. 
+
+1) Spannend. Welchen Nutzen hat, ich sage jetzt mal, [Firma]? Ich weiß, Sie sind Geschäftsführer von [Tochterfirma], richtig? 
+
+2) Ja, das ist eine Nachhaltigkeitsfirma. Das ist eine 100%er Tochter der [Firmengruppe] und der [Eigentümer] und ich sind die Geschäftsführer. 
+
+1) Stimmt es aber trotzdem, wenn ich frage, welchen Nutzen hat am Ende die [Firma] von dem ganzen Projekt? 
+
+2) Den wirtschaftlichen Nutzen können wir noch nicht darstellen, weil wir dazusagen zu diesem Projekt. Wir gehen aber davon aus, das ist in Wirklichkeit ein gesellschaftlicher Beitrag von [Eigentümer], um es mal so zu sagen, wobei wir jetzt den neuen Ansatz schon so wählen. Wir haben sehr gute Partner. Sie werden es ja gesehen haben, wir haben sehr große Unternehmen wie [Partner #1] oder wie [Partner #2] oder [Bank] und in der Vergangenheit war alles sehr stark, schnell einmal Fläche anzulegen, aber mit Fläche zu erhalten. Wir gehen jetzt in ein Modell mit unseren Partnern und da führen wir gerade die ersten Gespräche und die ziehen gut kommt mit. Wir sagen, ein Partner von uns ist nicht nur ein Partner, also wir gründen, wir haben gerade eine gemeinnützige GmbH gegründet, das geht von der [Firma] in eine gemeinnützige GmbH, er ist nicht nur Partner, sondern er ist auch ein Artenschutzpatron. Der nimmt direkt die Verantwortung für eine Fläche und da werden wir jetzt verschiedene Kategorien von Partnern geben, größenordnungsmäßig. Wir haben ja einen strategischen Partner wie die [Partner #3] oder so, aber wir werden das ganze Projekt B2C und B2B, wir werden viel stärker auf B2C gehen, in Richtung Flächenschaffung geben und das ist auf Kostenteckung budgetiert. 
+
+1) Okay, ist das am Ende ein Marketing-Vorteil, den die [Firma] dadurch bekommt? 
+
+2) Nein, ich würde es als Sinn-Vorteil benennen, weil es intrinsisch motiviert war von [Eigentümer] und seiner Tochter, die Geschäftsführerin bei uns ist, auf Nachhaltigkeit wirklich viel Wert bei uns im Haus gelegt. Das ist ein bisschen ein Leuchtturmprojekt innerhalb der [Firma], wo wir sagen, neben dem Geothermie-Projekt, das ist ein Riesenprojekt, dass wir mit Geothermie Glasfaser heizen und unabhängig sind von fossilen Brennstoffen, ist es ein zweites Projekt, wo wir sagen, Lebensraum ist für uns wichtig, wir wollen einen Beitrag zur Lebensraumerhaltung schaffen. Was wir schon tun ist, und das wird aber schwierig, Taxonomie sagt ihnen sicher was, da sind die technischen Kriterien für Biodiversität im Sommer herausgekommen, die in sechs Kapiteln aufgeteilt sind. Davon sind viereinhalb unkompliziert und eineinhalb für uns kompliziert und wir starten jetzt einmal [Beratungsfirma], das ist ein Umweltschutzberater. 
+
+1) Aber es ist auch wunderbar, wie sie das Thema Taxonomie aufgreifen, das wäre mein nächstes gewesen. 
+
+2) Wir starten jetzt im Jänner und Februar eine Workshop-Reihe, wo wir uns das ganze Biodiversitätsthema, inwieweit es den technischen Kriterien entspricht und inwieweit Stakeholder dann auch produzieren können. Wir schauen uns das an und das wollen wir natürlich unseren Partnern bieten, wenn es geht. Die große Herausforderung dabei ist, dass die EU abstimmt auf eine geschlossene Fläche und wir aber genau umgekehrt. Wir haben voriges Jahr Kartoffelprojekte in [Region Österreich] gemacht, im Nachfeld bis [Ort] rüber. Dort ist wirklich Intensivst-Landwirtschaft. Da sind wir in ein Gebiet gegangen, dort kann kein Landwirt mehr ein Grünland bearbeiten. Da hat niemand ein Mähwerk, da hat niemand einen Ladewagen, da hat niemand mehr eine Rotweinpresse. Das heißt, die haben von Null begonnen, da haben wir wirklich von Null an bei den Schulungen begonnen und da haben wir in diesem Intensivland, in diesem Intensivgebiet in Summe 14 Hektar angelegt. Das ist wirklich jetzt wieder ein Bereich Biodiversität, der dort entsteht, wo gibt es eine Studie vom Naturhistorischen Museum an der BOKU, eine hundertjährige Studie, wo wirklich 50% des Lebens in den letzten 100 Jahren verschwunden sind, die sind weg, die gibt es nicht mehr. 
+
+1) Okay, hätten Sie das Projekt auch ohne Taxonomie gemacht? 
+
+2) Natürlich, das ist vorher schon entstanden, bevor die Taxonomie gekommen ist. 
+
+1) Und glauben Sie, dass in Zukunft, ich nenne das mal Rahmenwerke der EU, wie die Taxonomie, aber auch wie die CSRD, also die Corporate Sustainability Reporting Directive, die wird Ihnen wahrscheinlich auch was sagen in dem Zuge. - Beeinträchtigen solche Rahmenwerke Ihre Planungen beim [Projekt] für die Zukunft? 
+
+2) Warum beeinträchtigen? 
+
+1) Sind das Treiber, wo Sie sagen, okay, wir sehen die EU hat hier was entfesselt, das geht in die Richtung, in die wir auch arbeiten, das motiviert uns jetzt zum Beispiel oder das unterstützt uns, das hilft uns? 
+
+2) - Ich gebe Ihnen ein Beispiel aus dem Green Deal. Der Green Deal schreibt vor, dass alle Ackerflächen und alle Grünlandflächen 7% Biodiversitätsflächen anlegen müssen. Und die Landwirte müssten das tun. Bisher war es so, dass die konventionellen Landwirte 4% anlegen mussten, neu war es da im Januar 2023, dass die Bio-Bauern 7% anlegen müssen und den konventionellen Bauern ist die EU entgegengekommen, sie können die Bracheflächen so lassen, wie sie sind, aber wir müssen in Summe auf 7% kommen. Und die AMA hat dann ein Regelwerk ausgearbeitet und hat zwei Möglichkeiten, diese Flächen anzulegen. Das eine ist ganz normal ein Saatgut aus dem Lagerhaus, wo man Biodiversitätsflächen anlegt, wo Mindestanforderungen definiert sind oder man macht ein regionales Saatgut. Und da hat man dann 300 Euro Förderung pro Hektar gegeben und wollte das forcieren und da hat es auch innerhalb des Landwirtschaftsministeriums und der AMA Zielvorstellungen gegeben, wie viel das umgesetzt werden können. In Summe waren es 80.000 Hektar in Österreich, das sind 2023 erreicht worden, laut AMA Statistik. Und wie viel schätzen Sie davon, dass 80.000 Hektar mit regionalen Wildpflanzen Saatgut gemacht werden? 
+
+1) 10.000? 
+
+2) 10.000 von 80.000, das sind 12,5%. Es waren weniger als 100 Hektar. Das heißt die Landwirte - es gibt nämlich ein großes Problem, wenn sie Wildpflanzen Saatgut anlegen und wenn sie Biodiversität wirklich schaffen wollen, dann müssen sie mähen. Dann dürfen sie nicht diese Weide einhäckseln und sozusagen nur drüberfahren mit dem Gerät und das ist erledigt, sondern sie müssen es mähen und das Mähgut verbringen. Nur dann hat die Biodiversität eine Chance sich zu entwickeln. Wenn sie dort reinmähen, ist jede Heuschrecke, alles tot. Und das ist so viel Aufwand für die Landwirte, dass sie sagen mit 300 Euro ist da keiner motiviert das zu tun. Das heißt, damit wir unsere Landwirte dazu bringen, dass sie das tun, zahlen wir einen ordentlichen Betrag. Sie müssen sich vorstellen, Steiermark ist anders, aber wenn sie in ein Intensivgebiet gehen, in der Hollerbrunner Neusiedlerregion, da zahlen die Bauern 1.000, 1.500 Euro Pacht alleine, damit sie das pachten können. Wenn sie auf einer Fläche, die sie auf das Geld pachten, zusätzlich dann Biodiversitätsflächen schaffen müssen, dann ist die Motivation sehr klein bei den Landwirten das zu machen. Und wenn sie es dann machen, nehmen sie unser Saatgut, kostet im Freiverkauf 70 Euro, das internationale Saatgut, das genetisch natürlich nicht passt in Österreich, kostet 5 Euro. Da haben sie 99,99% für diese Variante entschieden. Das heißt, Sie ihre Frage war, der Green Deal uns forciert, wir haben klar definiert, wir wollen einen gesellschaftlichen Mehrwert schaffen, das heißt, was sowieso gesetzlich vorgegeben ist, das brauchen wir nicht mehr machen, das gibt es sowieso. Das heißt, unser Ansatz in der Landwirtschaft ist, nicht 7%, sondern 10% zu machen, das - ist 1 zu 10, nur mit hochwertigen österreichischen Wildpflanzen, Saatgut. Wir stellen den Landwirten auch zur Verfügung. Und diese Fläche muss dann auch so bewirtschaftet werden. Sie darf nicht gedüngt werden, es darf kein Pflanzenschutzmittel ausgebracht werden, sie darf nur zum Mähen befahren werden und sie muss eben gemäht werden und es muss verbracht werden. Sie darf nicht gehäckselt werden. 
+
+1) Also ich verstehe den starken Fokus, den das Projekt hat, einen gesellschaftlichen Mehrwert zu schaffen, auch einen Mehrwert für die Agrarwirtschaft, wenn ich das richtig verstehe. Ich habe trotzdem während meiner Recherche eben das ein oder andere Rahmenwerk und den ein oder anderen trockeneren Grund gefunden, den es gibt, dass man solche Projekte umsetzen könnte. Und da interessiert mich, wenn es um Marketing oder wenn es um Berichterstattung geht nochmal, auf welchen Kanälen berichten Sie über das Projekt, außer der Website, die offen sichtlich ist? Also ich spiele da nochmal an, auf die CSRD, reporten Sie da vielleicht auch gegenüber anderen Stakeholdern, wie zum Beispiel Banken und so weiter, wo Sie theoretisch ein Interesse - haben könnten, das denen mitzuteilen? 
+
+2) Das Projekt ist in unserem Nachhaltigkeitsbericht immer eines der Hauptprojekte im Umweltbereich. Wir haben riesige Photovoltaikanlagen gebaut, wir haben diese Geothermie gebaut, also wir haben mehrere Nachhaltigkeitsprojekte, aber [Projekt] ist eines der Hauptprojekte, dass immer wieder kommuniziert wird. Es wird da in Summe, wir haben eine sehr starke Vernetzung, das heißt wir sind vernetzt mit prominenten Persönlichkeiten, wir sind vernetzt, prominente Persönlichkeiten, Beispiel [Promi #1-4], also das sind wirklich renommierte Persönlichkeiten, die auch eine hohe Reichweite haben und wir haben sehr viele prominente Wirtschaftsunternehmen und wir haben sehr viele Institutionen. Wir waren jetzt beim Nobelpreiskomitee, wir waren beim Papst, wir sind offizieller Partner des Europäischen Parlaments, also auch mit dem Slogan verwenden und alles, das heißt Öffentlichkeitsarbeit war von Anfang an einer der Haupttreiber bei diesem Projekt, weil wir logischerweise diese Produkte auch vermarkten wollen, die wir mit der Landwirtschaft machen und wir müssen im Endeffekt, da werden wir aber auch noch fokussierter vorgehen, wir wollen, dass die Menschen wissen, dass wir Lebensraum erhalten und dass wir dort Lebensmittel erzeugen, die nach einem bestimmten Ansatz erzeugbar sind. Öffentlichkeitsarbeit war immer ein großer Teil, also 2021 bis 2023, das Projekt gibt es jetzt drei Jahre und ist auch bei unseren Partnern der wichtige Teil und wir haben das Projekt immer so angelegt, dass wir, ich sage Ihnen ein Beispiel, war diese Woche bei [Partner #2], wo wir das nächste Jahr besprochen haben. [Partner #2] unterstützt uns mit einem beträchtlichen Betrag, verteilt da Wildbinensamen an ihre Kunden, macht aber zum Beispiel eine Botschaft, auf uns ist der [Koch], umgekehrt ist [Partner #2] wieder [Koch]-Partner, umgekehrt wird er Gewürzpartner von [Kooperation], - ist wieder Inhalte-Projektpartner von [Partner #2] im Kochbereich, das heißt, das Ganze ist - ein riesen Vernetzungsthema und hat sicher der [Firma] Zugänge ermöglicht, die sie vorher nicht gehabt hat. 
+
+1) Okay. Was würden Sie denn sagen in dieser ganzen Vernetzungs-, auch in der Reporting-Arbeit, wer sind die wichtigsten Zielgruppen? Also ich kann beispielhaft mal ein paar nennen, sind das wirklich dann eben vielleicht B2C, letztendlich Kunden, sind das Ihre größeren Geschäftspartner, sind das doch vielleicht Banken oder sind das vielleicht auch Mitarbeitende? 
+
+2) Banken Sind das überhaupt nicht. 
+
+1) Das heißt, Sie kriegen auch keine besseren Kreditkonditionen zum Beispiel? 
+
+2) Bisher war es eine ganz klare B2B-Zielgruppe, also im Business-Bereich, wir werden nächstes Jahr mit einer Online-Plattform starten, wo wir B2C gehen und wo wir die Bevölkerung auffordern, Artenschutzpatron zu werden. Das heißt, wir werden eine zweite Schiene aufmachen, bisher war es aber ein rohstoffproduktions-seitiges Thema, es war also Lieferanten- und auch kundenseitiger Thema bis jetzt. 
+
+1) Okay. Spielt das für Ihre Mitarbeitenden eine Rolle, was Sie da für ein Projekt umsetzen oder könnten Sie letztendlich auch was komplett anderes machen oder das Projekt weglassen? 
+
+2) Es passt insofern zu uns, weil [Produkt #1] natürlich eines unserer Grundprodukte ist. Die drei Gründer des Unternehmens kommen aus dem Segment, aus der [Produkt #1]-produktion. Das heißt, es kommt von den Wurzeln unseres Unternehmens, da passt es wirklich gut dazu und es ist eine hohe Identifikation der Leute, die noch mit diesem Geschäft zu tun haben. Aber es passt gut zu uns und passt auch gut zu unseren Mitarbeitern und ja, hat man für sich eine hohe Attraktivität. Ich muss mich entschuldigen, ich bin immer noch ein bisschen angekratzt. 
+
+1) Alles gut. 
+
+2) Nein, es kommt sehr gut bei den Mitarbeitenden. 
+
+1) Okay. Kennen Sie andere Projekte, die ähnlich unterwegs sind oder würden Sie sagen, Sie sind da wirklich ein First Mover? 
+
+2) Nein, es gibt im deutschsprachigen Raum mal zwei, drei, die in ähnliche Richtungen gehen, nur ist unser Ansatz viel breiter. Das heißt, es gibt manche, die Bienenweiden, Blühflächen, die meisten nennen es Bienenweiden, sondern die nennen es irgendwas mit Wiesen etc. Es gibt so viele Projekte, die noch einjährig sind, wo man einmal die Fläche verkauft, dann wird sie wieder gehäckselt. Es gibt ein sehr großes Projekt in Deutschland, Blühende Landschaft, das ist sehr gut, das aber aus unserer Sicht wieder weniger an die Öffentlichkeit so geht, dass man über den natürlichen Ansprache-Zielgruppen hinausreichen könnte. Ich glaube, dass wir in dieser Art, wie wir es machen, schon outstanding sind. 
+
+1) Okay. Ja, absolut. Wir kommen tatsächlich schon so langsam ein bisschen zum Ende des Interviews, weil Sie haben von sich selbst die ganzen Themen, auf die ich eingehen wollte, auch schon angerissen. Das waren auf der einen Seite eben, ich fasse nochmal kurz zusammen, die Rahmenwerke seitens der EU, wie die CSRD, die Taxonomie, auch das Thema Green Finance, aber wenn ich das richtig verstanden habe, dann spielt das in den Überlegungen, warum Sie [Projekt] umgesetzt haben, eigentlich keine Rolle, oder? 
+
+2) Derzeit nicht, weil wir kein Problem mit der Liquiditätsbeschaffung haben. Aber wird natürlich in Zukunft ein Thema sein. 
+
+1) Und auf der anderen Seite habe ich so ein bisschen rausgehört, es geht darum, einen gesellschaftlichen Mehrwert zu schaffen, einen Mehrwert für auch eine zukunftsfähige Landwirtschaft. Und da nimmt das Thema, ich nenne es jetzt mal Marketing, Berichterstattung, einen großen Raum ein. Wie würden Sie es nennen? 
+
+2) Den Marketing-Teil? 
+
+1) Ja. Kann man das Marketing nennen, oder geht es da... 
+
+2) Nein, es ist schon Marketing. Sie sind in einem anderen Bereich von Marketing, aber natürlich sprechen wir darüber. Du gutest und sprichst darüber. 
+
+1) Absolut. Zahlt sich das Marketing letztendlich auf das Konto der [Firma] in Form von höheren Umsatzzahlen aus, oder sind das generelle Reputationsgewinne? Das ist eine schwierige Frage, die ist auch schwierig zu antizipieren, aber haben Sie dafür ein Gefühl? 
+
+2) Nein, es ist keine schwierige Frage, wir kennen ja die Umsätze, die wir machen. Teils, teils. - Wir haben zu Beginn einen Mehrwert erzielt mit diesen Produkten. Wir haben jetzt in der Phase, in der wir gerade sind, inflationsgetrieben, früher ist Obst und Gemüse in Österreich ca. 50% Aktions- oder Preis-Einstiegs-Gewinn gewesen. Das heißt, der Konsument greift auf die Aktion oder auf S-Budget oder auf den Preis-Einstieg. Und durch die jetzige Situation ist der Wert auf über 70% gestiegen. Das Einkaufsverhalten in Österreich hat sich massiv verändert seit dem Einmarsch der Ukraine. Und in der Zeit haben alle Produkte, die einen Mehrwert erzielt haben, Regionalprodukte, Bioprodukte oder in dem Fall ein Artenschutzprodukt, Einbußen erzielt. Und dadurch ist ein Druck draufgekommen. Das heißt, den Reputationsvorteil haben sie immer. Wir haben teilweise noch einen Mehrwert, teilweise sind wir da als Gutmenschen unterwegs. Wobei wir grundsätzlich davon ausgehen und davon bin ich überzeugt, dass es jetzt der richtige Zeitpunkt ist, genau in der Phase, wo dann wahrscheinlich viele solche Programme einstellen, weil sie einen extremen Kostendruck haben, wir genau in den Bereich investieren werden, weil ich sehe Artenschutz gleich wie bio oder regional. 
+
+1) Ja, okay. Ich habe noch ein, zwei bisschen offenere Fragen zum Abschluss. Das EU-Nature-Restoration-Law wird Ihnen wahrscheinlich auch was sagen, oder? 
+
+2) Das jetzt da beschlossen worden ist. 
+
+1) Ja, genau. 
+
+2) Die 20%. 
+
+1) Genau. Ja. Haben Sie da eine Meinung dazu? Gerade in Ihrem Bereich, in Ihrem Wirtschaftsbereich? 
+
+2) Nein, wir sehen es positiv. Wir unterstützen das auch, weil es langfristig die Landwirtschaft sogar schützt. 
+
+1) Okay. Wo sollen letztendlich die Flächen dafür herkommen, die renaturiert werden sollen? 
+
+2) Sie haben ja die 20%, das geht ja von der Gesamtfläche aus, von der landwirtschaftlichen Fläche. Und wenn Sie jetzt hernehmen, wir haben 7% der Fläche schon rausgenommen. Und der Green Deal sieht vor, bis 2030 10% zu erreichen. Das heißt, es geht noch um die 3% plus. Das jetzige Programm läuft bis 2028. Das heißt, die Frage ist dann, ob es 2029, 2030, dann die EU in der Situation ist, dass das Ziel dann hochschraubt auf 30% - entschuldige oder auf die 10%. Und ich glaube, das wird der Beitrag der Landwirtschaft sein, weil Sie haben ja da in diesen Flächen die Alpen drin und alles drin. 
+
+1) Ja. 
+
+2) Ich glaube, dass Österreich da nicht das Problem hat, die 20%. Ich habe mich da nicht in Summe eingearbeitet. Aber ich glaube, dass die Landwirtschaft, wir haben ja in der Vergangenheit, wenn Sie 10, 20 Jahre zurückschauen, hat es schon Stilllegungsprogramme mit 10% in der Landwirtschaft gegeben. Das ist jetzt nicht etwas, was vollkommen neu ist. Also das hat es schon gegeben. Und die EU ist der größte Agrarexporteur der Welt. Also in Relation Import-Export, also diese Bedenken, dass das Ganze, ich glaube, dass das Ganze, wenn wir wollen, dass der Humusabbau aufhört, wenn wir wollen, dass der Lebensraum so erhalten bleibt, dass er auch in Zukunft eine Basis bildet in der Produktion von Lebensmitteln, dann müssen wir diese Maßnahmen ergreifen. Wenn wir die nicht ergreifen, gibt es sehr schöne Berechnungen. Da haben wir schon, obwohl die Getreideböden in Österreich bei der Bewirtschaftungsart, wie wir sie jetzt machen, eine Ertragskraft verlieren werden. Das heißt, dann kommt es sowieso an niedrigere Erträge. Da gibt es sehr schöne Studien für Getreideerträge und anderes in Österreich. Diese Art der Bewirtschaftung ist keine zukunftsorientierte Bewirtschaftung. 
+
+1) Gibt es nicht irgendeine Zahl, noch 29 Weizenernten, wenn wir so weitermachen wie bisher? Ich weiß nicht, ob die stimmt, aber... 
+
+2) Es gibt eine gute Studie von der AMA, und die AMA ist nicht im Verdacht, dass sie jetzt gegen die Landwirte arbeitet. 
+
+1) Okay, letzte Frage zum [Projekt]. Ich nenne mal ein paar Stichpunkte oder ein paar Beschreibungen. Wie würden Sie es denn nennen? Ist das Philanthropie, sogenanntes Impact Investing, Corporate Environmentalism oder Corporate Citizenship? 
+
+2) Können Sie das nochmal nennen? Das Erste war? 
+
+1) Philanthropie. 
+
+2) Ist es nicht. Aber ich glaube schon, dass das einen wirtschaftlichen Nutzen bringt. 
+
+1) Können Sie das nochmal sagen? 
+
+2) Wir glauben schon, dass das on the long run einen wirtschaftlichen Nutzen bringt. Und wenn wir jetzt diese Landwirte aufbauen, also wenn wir diese Wertschöpfungskette aufbauen, mit den [Produkt #4]-bauern, mit den [Produkt #1]-bauern, dann vielleicht mit [Produkt #5]-bauern, dass wir irgendwann diesen Rohstoff sauber in Zugriff haben, in der Wertschöpfungskette, und dass eine Industrie, sehr wohl die Lebensmittelindustrie, auf diesen Rohstoff zugreift. Und dass der Handel sagt, okay, das hat einen Wert, wenn dieses Import drauf ist, weil der Konsument dem einen Wert zuordnet. Wir glauben schon daran, dass das sich wirtschaftlich durchsetzen wird. 
+
+1) Ja. Sogenanntes Impact Investing? 
+
+2) Darunter verstehen wir, dass man damit einen gewissen Impact erreichen kann? 
+
+1) Ja. - Ja. 
+
+2) Glauben wir schon. Das klingt aber gut. Was waren die anderen zwei Varianten? 
+
+1) Corporate Environmentalism. 
+
+2) Das wäre jetzt in Richtung eigene Organisation, oder was ist da gemeint? 
+
+1) Das wäre das Engagement eines Unternehmens für die Umwelt. 
+
+2) Ja, ist auch nicht falsch. 
+
+1) Und das letzte ist Corporate Citizenship. Darunter versteht man eigentlich die aktive Teilhabe eines Unternehmens an einer Gesellschaft und ihre Herausforderungen und Probleme. 
+
+2) Ja. Wo würden Sie es zuordnen? 
+
+1) Ich meine, ich sehe ja immer nur die Außenperspektive. Und Sie haben es vielleicht schon gemerkt vorhin. Bei all den Interviews, die ich jetzt führen werde, da lege ich eigentlich zugrunde, dass es sich nicht um Philanthropie handelt. Weil es nämlich jetzt schon klare wirtschaftliche Anreize gibt, Biodiversitätsprojekte umzusetzen. Letztendlich hat es sicher Schnittmengen mit Corporate Environmentalism und Corporate Citizenship. Impact Investing kommt, glaube ich, aus einem anderen Bereich. Da geht es gezielter darum, einzelne gesellschaftliche Herausforderungen zu lösen und weniger - also ich sehe bei [Projekt] vielmehr ein großer Trend, dem Sie sich da entgegenstemmen. Und von dem Sie auch letztendlich sagen, der bedroht unser Wertschöpfungsmodell. Und wie Sie gesagt haben, letztendlich können wir uns nur in Zukunft gut positionieren, wenn wir jetzt schon dagegen steuern. 
+
+2) Das ist für uns eine Facette unseres Angebots. Und zwar, wir versuchen wirklich über die gesamte halbe Milliarde, die wir haben, der Motto unseres Unternehmens ist, jeden Tag besser werden. Und wir haben zum Beispiel Bio/FairTrade bei der Spar. Die Spar hat an die 50% bereits Bio/FairTrade-[Produkt #2]. Das war aber ausschließlich das Engagement unseres Unternehmens und das, was wir vor Ort mit Vertragslandwirtschaft in Mittelamerika und Südamerika gemacht haben, damit wir eine qualitative Wertschöpfungskette so aufbauen können, dass die Spar der absolute Marktleader in Österreich ist, von diesem Anteil. Und wir haben jetzt ein großes Projekt für die Schweiz, was darum geht, eine andere Frucht. Und das ist ganz schwierig, weil da haben wir acht Anbauregionen, wo wir das koordinieren müssen, was auch in die Richtung geht, dass wir einen vollkommen anderen Standard für die Bauern in der Region erreichen und für den Lebensmittelstandard, den wir in der Schweiz dann in dem Fall anbieten können. Das heißt, wir glauben daran, wenn wir die Produkte in die Richtung weiterentwickeln, dass wir dann in einer bisschen Vorreiterrolle sind, was wir auch oft merken, weil der Kunde aus der Schweiz ist auf uns zugekommen, weil er weiß, dass wir das in anderen Bereichen bereits gemacht haben. Und damit ist dieser Markt, ich nenne jetzt einmal die Nachfrage nach nachhaltigen Lebensmitteln, der derzeit unter Druck ist, sowie bio und regional, dass dieser Markt entsteht. Und dass das durchaus Investments sind, das Know-how, das wir uns jetzt aneignen, die Leute im Einkauf, in der Abwicklung, im Qualitätsmanagement, bis hin zur Schulung für unsere Partner, das ist ein Know-how, das wir uns aufbauen in unseren Unternehmen und auch haben. Und wir glauben ganz sicher, Sie haben es ja richtig gesagt, klare wirtschaftliche Ziele auch, dieser nachhaltige Markt muss kommen, der ist jetzt quantitativ noch nicht so da. Aber teilweise ist er da. Und teilweise können wir dadurch kommen. Ich sage Ihnen ein Beispiel, in der Thermalgemüse-Welt, da könnte man das Zehnfache produzieren von der Nachfrage. 
+
+1) Okay. Ja, ist spannend. Das ist ein bekanntes Produkt, ich kenne es selbst auch vom Einkaufen. 
+
+2) Ja, und wir differenzieren uns geschmacklich und nehmen da auch Ertragseinbußen in Kauf, und haben natürlich ganz andere Anforderungen, kostenmäßig an die Verpackung und alles, weil wir nehmen die Produkte erst reif runter, wenn sie ausgereift sind. Das ist das Größte. Es gibt auch Sortenthemen und andere Themen, aber das Hauptthema ist, dass sie es reif runternehmen und nicht grün auf die kanarischen Inseln. Und daher haben sie einen Geschmacksvorteil. Und die sind damals gekommen mit einem doppelten Verkaufspreis, als damals der UVP war, mit 3,91, und der UVP war 1,99. Und das hat sich trotzdem durchgesetzt, das Produkt. Und da ist ein klassisches Beispiel, dass ein Markt für, Sie brauchen auch den Geschmack, ohne Geschmack funktioniert es nie, aber der Konsument ist dann sehr wohlbereit, auch da mitzugehen. 
+
+1) Okay. - Herzlichen Dank an dieser Stelle, schon mal, für die ganzen Einblicke, Meinungen und Eindrücke, die Sie mir mitgegeben haben. Ich selbst habe eigentlich all meine Themen und Annahmen einmal zur Sprache gebracht, deswegen würde ich Ihnen gerne die Möglichkeit für alle Themen geben, die jetzt von Ihrer Seite her noch nicht zur Sprache kamen. 
+
+2) Nicht mehr. Zuerst interessiert es mich, Sie haben ganz selbstbewusst gesagt, es gibt klare wirtschaftliche Ziele im Biodiversitätsbereich. Was haben Sie da gemeint? 
+
+1) Sagen Sie mir noch einmal kurz den Kontext, bitte, war das jetzt zum Schluss unseres Gesprächs oder am Anfang? 
+
+2) Wir haben zuerst diskutiert, ich habe Sie noch einmal hinterfragt, die vier Kategorien, die man einteilen kann, ab von Philanthropie über die Impact Investment, und da haben Sie weit ausgehalten, Sie haben gesagt, die Unternehmen wissen genau, was sie da tun, und Sie haben eine klare wirtschaftliche Zielsetzung dahinter. Bei uns war es sicher so, dass wir immer schon nachhaltiger zu orientiert waren, auch in den Investitionen und allem. Dieses spezielle Projekt, aber ganz stark, das ist aber eine Situation entstanden, wo der [Eigentümer] in [Ort in Deutschland], glaube ich, bei der [Firma LEH] verhandelt hat, und wo er in ein Preisgespräch gekommen ist, wo er dann einfach gesagt hat, er macht das nicht mehr, ein Lebensmittel kann keinen Wert mehr haben, und dann hat er wieder darüber nachgedacht, wo können wir dann Mehrwertfelder für Lebensmittel sein. Und er sieht immer zwei Entwicklungen, das eine ist, dass wir in Zukunft sowiesoein Problem haben, überhaupt, der Lebensmittelsicherheit, weil wir durch diese Naturkatastrophen und durch den Ausfall ganz große Gebiete, ich sage Ihnen ein Beispiel, wir kriegen im Jänner 2 Millionen [Produkt #5] aus Spanien. Heuer haben wir eine Situation im Jänner in Spanien gehabt, dass fast gar nichts gekommen ist, dann haben wir noch Streiks gehabt mit der spanischen Gewerkschaft, und die 500.000 [Produkte #5], die gekommen sind, waren dann noch verdreckt, weil schlechtes Wetter war, also nicht brauchbar. Und wir haben jetzt einfach vermehrt, wenn man in die letzten zehn Jahre zurückschaut, wenn man sagt, bei großen Mengen haben wir Probleme gehabt, immer mehr, wo es wirklich Probleme gibt. Also die Situation wird instabil, - ob es Marokko ist, das habe ich zuerst gesagt, wir kommen auf jeden Fall wieder zum Thema, wo kann man überhaupt Lebensmittelsicherheit herstellen, und wir sehen immer, die zwei Märkte, es wird immer einen preisgetriebenen Markt geben, und es wird immer einen Mehrwertmarkt geben, wo Menschen sagen, das ist mal was wert. Und da glauben wir daran, dass neben Bio und Regional sehr wohl das Thema Schutz des eigenen Lebensraums ein Thema wird. 
+
+1) Absolut. Letztendlich sagt Ihnen wahrscheinlich der Satz, die Internalisierung von Externalitäten, was? 
+
+2) Nein, das sagt mir nix, aber ich kann mir was vorstellen. Die Internalisierung, der Satz von außen, ich versuche es mal...
+
+1) Also es geht um, weil Sie die Wertschöpfung angesprochen hatten vorhin, und was ich darunter verstehe. Letztendlich hat, glaube ich, nur eine nachhaltige Wirtschaftsweise einen Platz auf dieser Welt, die eben alle negativen Konsequenzen, die sie gegen die Umwelt hat, auch einpreist. Also ein Produkt, was der Umwelt weniger Schlechtes tut, als zum Beispiel ein Produkt der konventionellen Landwirtschaft, ist vielleicht teurer, hat in diesem Moment aber eben auch diese zusätzlichen Kosten internalisiert, die es auf die Umwelt hat. Darum geht es so ein bisschen. Deswegen, ich glaube, das trifft letztendlich ganz gut, was die [Firma] vorhat. 
+
+2) Das ist ein guter Satz, ja. Im Endeffekt geht es um Bewusstseinsbildung. 
+
+1) Auch das, absolut. 
+
+2) Im Endeffekt kann man immer nur mit der Bevölkerung und mit den Menschen Themen umsetzen. Die Frage ist immer, sind mehr Menschen bereit, einen bestimmten Weg zu gehen? 
+
+1) Ich erinnere mich selbst, ich habe Ihren Chef [Eigentümer] vor einem halben Jahr auch online mal kurz kennenlernen dürfen bei einem Climate Talk, nannte sich das vom WWF. Ich bin dadurch, glaube ich, tatsächlich auch das erste Mal auf das [Projekt] aufmerksam geworden. Ich meine, mir musste und durfte er nicht allzu viel Neues erzählen, weil ich meine Erfahrungen auch beruflich in der Richtung gemacht hatte. Aber ich glaube, er hat einen sehr, sehr guten Beitrag in dem Moment in diesem Panel geliefert. 
+
+2) Ich kann mich noch erinnern, welches Feedback er von der Sitzung angegeben hat. 
+
+1) Okay. Wollen Sie das hier teilen oder er nicht? 
+
+2) Nein, er hat das alles für richtig empfunden, aber sehr weit weg von der Praxis. Im Endeffekt ist ja immer, wie schaut die Lösung dann aus, die der WWF anbietet? Also wir definieren, wir versuchen gerade, eine Lebensmusterregion im Biodiversitätsbereich einmal herauszuarbeiten. Und wir haben uns entschieden jetzt für einen [Name Naturpark] Naturpark, also Naturpark [Naturpark Name] Dort gibt es seit 40 Jahren Naturparkmanagement. Wir wollen dort zeigen, dass man im Einklang Bevölkerung, Landwirtschaft, Wirtschaft und Biodiversität eine Region entwickeln kann. Und dort haben wir einen Riesenvorteil, dass es ein professionelles Management mit zwei Biologinnen gibt. Es gibt dort ein selbstständiges [Bank], die eigenständiges Unternehmen ausgliedert hat, das im Erwachsenenbildungsbereich für Unternehmen ganz viel macht und ganz von umweltorientiert macht. Die arbeiten an einem Leuchtturmprojekt, das sie umsetzen möchten in der Region. Und es gibt jetzt da für die gesamte Region eine Schwarzmessung, nennt man das, also wo Biodiversitätstrittsteine fehlen, damit man eine vernetzte Biodiversitätsregion hat. Und das gehen wir jetzt mit diesem Management, gehen wir das gemeinsam an. Da geht es wirklich runter bis zu den Gemeindearbeitern, die auch geschult werden in Biodiversitätsmaßnahmen, wie sie arbeiten sollen. Und wir versuchen dort die Lebensmusterregion aufzubauen. Und zwar, wie kann Biodiversität im Einklang mit Bevölkerung Jäger, Forstwirtschaft mit allen gelebt werden. Und wie man dort wirklich nur über Bewusstseinsbildung kann und über die Menschen, über die Schulen und alle Beteiligten. Das ist natürlich im [Naturpark] einfacher als im [Region Österreich]. Es soll aber nicht die letzte Lebensmusterregion bleiben. 
+
+1) Eines Tages auch in der Steiermark? 
+
+2) Der [Naturpark] ist in der Steiermark. 
+
+1) Okay, das wusste ich nicht.
+
+2) Das ist zwischen [Ort] und [Ort] ist das einmal links rein. [Naturpark] ist an und für sich auch eine sehr schöne Region. Sie sind gebürtig von wo? 
+
+1) Dann ist das [Naturpark] gar nicht so weit weg, möchte ich noch kurz sagen. Und ich glaube, da ist der [Berg] in der Nähe. Kann das sein? 
+
+2) Von [Ort]? Das ist in der Oststeiermark. Das ist in Richtung [Ort] runter. 
+
+1) Ich glaube, es gibt die [Name]-Bahn. 
+
+2) Was gibt es? 
+
+1) Die [Name]-Bahn. Das ist eine Schmalspurbahn. 
+
+2) Glaube ich nicht. 
+
+1) Dann höre ich auf mit meinem Halbwissen. Ich komme nämlich gebürtig aus dem [Region Deutschland]. 
+
+2) Der Vorteil und Nachteil von Böllau ist, dass sie verkehrsmäßig gar nicht so gut erschlossen waren. Was jetzt wieder ein Vorteil ist für sanften Tourismus  und naturleeren Leben und Arbeiten. 
+
+1) Das klingt hervorragend. 
+
+2) Dadurch, dass sie ein bisschen links liegen geblieben sind, sind das gute Voraussetzungen für bestimmte Dinge. 
+
+1) Verstehe. - Okay. Ich wäre durch. 
+
+2) Ich wünsche Ihnen viel Erfolg. Sie kriegen von mir nächste Woche die Bestätigung noch. Und wir freuen uns natürlich dann auf Ihr Exzerpt. 
+
+1) Das habe ich vermerkt. Vielen Dank nochmal für Ihre Zeit. Ich weiß das wirklich sehr zu schätzen. Darf ich Sie nochmal kontaktieren, falls irgendwelche Fragen beim Transkribieren aufkommen? 
+
+2) Kein Problem. 
+
+1) Das gleiche gilt auch für Sie. Falls Ihnen noch etwas offen geblieben ist, schreiben Sie mich gerne an. Sie kriegen auch heute Abend oder morgen eine kurze Follow-up-Mail. Da sind auch meine Kontaktdaten nochmal drin. Dann sage ich nochmal herzlichen Dank. Ihnen gute Besserung. 
+
+2) Dankeschön. Viel Erfolg. 
+
+1) Schönen Abend. Ciao.
